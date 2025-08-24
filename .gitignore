@@ -1,7 +1,7 @@
-
 newTask/.DS_Store
 downloadImage.py
 test/
-newTask/
 .DS_Store
 .gitignore
+.vscode/
+.venv/
